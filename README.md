@@ -2,26 +2,15 @@
 Sou Gustavasso, suave? 
 ## Redes sociais:
 <!--* [Twitter](https://twitter.com/gustanher/)-->
-* [Instagram(só tem foto do meu gato)](https://www.instagram.com/gustanher/)
-* Steam Nickname: gessinger
+* [Instagram](https://www.instagram.com/gustanher/)
+* Steam Nickname: Gessinger
 
 ## Informação geral
-DevOps
-
-Também sou  - Técnico em Manutenção e Suporte em informática, estudante e admirador de Ciência da Computação.
-Passar bem.
+DevOps, Técnico em Manutenção e Suporte em informática, estudante de Ciência da Computação.
     
 ## Proficiências
 * C C# Java
     
-## Meu Setup
-* Processador: intel core i5-4460 cpu @ 3.20ghz.
-* Placa de vídeo: Gforce GTX 1650 Super 6gb.
-* Ram: 16GB.
-* Placa mãe: Ainda Desconhecida.
-* Fonte: 500W.
-
-
 
 <!--
 **Gustanher/Gustanher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
