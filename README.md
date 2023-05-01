@@ -1,5 +1,5 @@
 ### Eaí 👋
-Sou Gustavasso, suave? 
+    Oi :D
 ## Redes sociais:
 <!--* [Twitter](https://twitter.com/gustanher/)-->
 * [Instagram](https://www.instagram.com/gustanher/)
